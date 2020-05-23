@@ -1,5 +1,5 @@
 import React from 'react';
-import './SearchBar';
+import axios from 'axios';
 import SearchBar from './SearchBar';
 
 class App extends React.Component {
